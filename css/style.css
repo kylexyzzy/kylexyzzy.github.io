@@ -1,0 +1,88 @@
+@import url("../webfonts/dinpro/stylesheet.css");
+body {
+	background-color: black;
+	width: 960px;
+	margin: 10px;
+	padding: 0px;
+	font-family: dinpro;
+	color: #00DB18;
+	font-size: 18px;
+	background-image: url(../images/imagesForFixedWidthPageLab/geforce.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}	
+h1 {
+	font-size: 48px;
+
+}
+
+h1, h2, h4 {
+	color: rgba(0,255,52,1);
+	font-size: 50px;
+	font-family: dinpro;
+
+}
+#header {
+	text-align: center;
+	margin-bottom: 10px;
+	color: #00C936;
+	border: 2px ridge rgba(0,255,21,1);
+	background-color: rgba(0,0,0,0.83);
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+#footer{
+	background-color: rgba(0,0,0,0.83);
+	color: rgba(0,255,21,1);
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border: 2px ridge rgba(0,255,21,1);
+
+
+
+
+
+
+
+	border color:aliceblue;
+
+}
+
+#content{
+	background-color: blue;
+	
+}
+
+.section{
+	background-color: rgba(107,86,11,1.00);
+	padding: 20px;
+	margin: 20px;
+	display: inline-block;
+	width: 220px;
+	height: 100px;
+	vertical-align: top;
+}
+
+a{
+	color: #00CB24;
+	font-size: 30px;
+	text-decoration: none;
+}
+#drab1text{
+	color: green;
+	font-weight: bold;
+
+}
+
+.hilite{
+	color: lawngreen;
+	font-weight: 700;
+	font-size: 24px;
+
+}
+
+	
